@@ -1,5 +1,7 @@
 # Angular Essential Training
 
+Student: Iana Stepanova, EPAM Systems
+
 This is the repository for my course **Angular Essential Training**  
 The full course is available at [LinkedIn Learning](https://www.linkedin.com/learning) and [lynda.com](https://lynda.com).  
 [LinkedIn Learning subscribers: watch here](https://www.linkedin.com/learning/angular-essential-training-2)  
